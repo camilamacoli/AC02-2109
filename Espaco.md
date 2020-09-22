@@ -24,7 +24,7 @@ Segundo o astrônomo Wailã de Souza Cruz, do Planetário do Rio de Janeiro, o S
 
 ---
 
-####Lista de Galáxias próximas da nossa:
+#### Lista de Galáxias próximas da nossa:
 
 1. Cata-Vento do Sul
   - galáxia espiral
