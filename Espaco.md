@@ -25,6 +25,7 @@ Segundo o astrônomo Wailã de Souza Cruz, do Planetário do Rio de Janeiro, o S
 ---
 
 ####Lista de Galáxias próximas da nossa:
+
 1. Cata-Vento do Sul
   - galáxia espiral
   - há 15.040.000 anos-luz da terra
@@ -48,7 +49,8 @@ Segundo o astrônomo Wailã de Souza Cruz, do Planetário do Rio de Janeiro, o S
   
 Para mais informações, acesse o ~~[link](https://www.hipercultura.com/galaxias-mais-lindas-perto-da-terra/)~~
 
-()
+
+
 
 ```
 Atenção! Atualmente o sistema Solar contém apenas oito planetas, pois o Plutão foi rebaixado para planeta anão, por ser pequeno demais.
