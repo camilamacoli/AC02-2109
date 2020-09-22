@@ -29,34 +29,37 @@ Segundo o astrônomo Wailã de Souza Cruz, do Planetário do Rio de Janeiro, o S
 1. Cata-Vento do Sul
   - galáxia espiral
   - há 15.040.000 anos-luz da terra
-  - 1,327 × 10^10 anos
 2. Galáxia do Sombrero
   - galáxia espiral
   - há 29.350.000 anos-luz da terra
-  - 1,325 × 10^10 anos
 3. O objeto de Hoag
   - galáxia anel
   - há 612.800.000 anos-luz da terra
-  - 1,275 × 10^10 anos
 4. Arp 87
   - galáxia espiral 
   - há 300 milhões de anos-luz da terra
-  - ???
 5. Galáxia Olho Negro
   - galáxia espiral
   - há 24.010.000 anos-luz da terra
-  - 1,328 × 10^10 anos
-  - 
-  
-Para mais informações, acesse o ~~[link](https://www.hipercultura.com/galaxias-mais-lindas-perto-da-terra/)~~
-
-
+ 
+ Para mais informações, acesse o [link](https://www.hipercultura.com/galaxias-mais-lindas-perto-da-terra/)
 
 
 ```
 Atenção! Atualmente o sistema Solar contém apenas oito planetas, pois o Plutão foi rebaixado para planeta anão, por ser pequeno demais.
 
 ```
+Planetas do sistema Solar:
+- [x] [Mercúrio](https://pt.wikipedia.org/wiki/Merc%C3%BArio_(planeta))
+- [x] [Vénus](https://pt.wikipedia.org/wiki/V%C3%A9nus_(planeta))
+- [x] [Terra](https://pt.wikipedia.org/wiki/Terra)
+- [x] [Marte](https://pt.wikipedia.org/wiki/Marte_(planeta))
+- [x] [Júpiter](https://pt.wikipedia.org/wiki/J%C3%BApiter_(planeta))
+- [x] [Saturno](https://pt.wikipedia.org/wiki/Saturno_(planeta))
+- [x] [Urano](https://pt.wikipedia.org/wiki/Urano_(planeta))
+- [x] [Netuno](https://pt.wikipedia.org/wiki/Netuno_(planeta))
+- [ ] [Plutão](https://pt.wikipedia.org/wiki/Plut%C3%A3o)
+
 
 Assim como diz David Bowie em sua música Space Oddity:
 >_Planet Earth is blue and there's nothing I can do..._
@@ -71,6 +74,7 @@ Agradecemos pela leitura, não se esqueça de nos acompanhar no instagram e twit
 [![](http://img.youtube.com/vi/ow87VFXFztU/0.jpg)](http://www.youtube.com/watch?v=ow87VFXFztU "The Brightest Stars In the Universe")
 
 
-
+Agradecimento ao professor @leonardobontempo 
+A página pode ser encontrada no [Issue](https://github.com/leonardobontempo/Aula3-DevOps/issues/9) 
 
 
