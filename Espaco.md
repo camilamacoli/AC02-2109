@@ -41,11 +41,12 @@ Segundo o astrônomo Wailã de Souza Cruz, do Planetário do Rio de Janeiro, o S
 4. Arp 87
   - galáxia espiral 
   - há 300 milhões de anos-luz da terra
-  - #.
+  - ???
 5. Galáxia Olho Negro
   - galáxia espiral
   - há 24.010.000 anos-luz da terra
   - 1,328 × 10^10 anos
+  - 
   
 Para mais informações, acesse o ~~[link](https://www.hipercultura.com/galaxias-mais-lindas-perto-da-terra/)~~
 
