@@ -58,7 +58,7 @@ Planetas do sistema Solar:
 - [x] [Saturno](https://pt.wikipedia.org/wiki/Saturno_(planeta))
 - [x] [Urano](https://pt.wikipedia.org/wiki/Urano_(planeta))
 - [x] [Netuno](https://pt.wikipedia.org/wiki/Netuno_(planeta))
-- [ ] [Plutão](https://pt.wikipedia.org/wiki/Plut%C3%A3o)
+- [ ] ~~[Plutão](https://pt.wikipedia.org/wiki/Plut%C3%A3o)~~
 
 
 Assim como diz David Bowie em sua música Space Oddity:
